@@ -1,0 +1,5 @@
+name = Sum
+description = Displays sums
+package = My Module
+core = 7.x
+files[] = sum.module
