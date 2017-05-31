@@ -1,0 +1,5 @@
+name = PingPong
+description = Displays ping pong
+package = My Module
+core = 7.x
+files[] = ping_pong.module
