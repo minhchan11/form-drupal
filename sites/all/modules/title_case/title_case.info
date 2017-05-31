@@ -1,0 +1,5 @@
+name = Title Case
+description = Displays title case
+package = My Module
+core = 7.x
+files[] = title_case.module
